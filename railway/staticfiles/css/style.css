@@ -1,0 +1,59 @@
+a.navbar-brand img {
+    width: 40%;
+    margin: 0 auto;
+    margin-top: -23px;
+}
+
+nav.navbar.navbar-default {
+    /* height: 89px; */
+    padding: 18px 11px;
+}
+ul.nav.navbar-nav.navbar-right li a {
+    margin-top: 14px;
+}
+ul.nav.navbar-nav.navbar-right li a {
+    background-color: #cd2027;
+    color: white;
+    padding: 18px 76px;
+    font-size: 38px;
+    margin-top: 0;
+}
+.tagline {
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+    padding: 12px 150px;
+    color: #cd2027;
+}
+button.btn.btn-default {
+    display: block;
+    margin: 0 auto;
+    padding: 7px 39px;
+    font-size: 17px;
+    background-color: #0101ad;
+    color: white;
+    font-weight: 700;
+}
+.container.formsbg {
+    background-color: white;
+    padding: 28px;
+}
+.container-fluid.bg {
+    background-image: url(train1.jpg);
+    background-size: cover;
+    padding: 107px 46px;
+}
+.table th {
+    text-align: center;
+}
+.table th:first-child {
+    width: 60%;
+}.headtext{
+    text-align: center;
+    margin-bottom: 33px;
+    color: red;
+    margin-top: 0;
+}.col-xs-12.set {
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
